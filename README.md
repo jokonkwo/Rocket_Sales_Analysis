@@ -1,2 +1,2 @@
 # Rocket_Sales_Analysis
-Product Profitability and Marketing Strategy
+Optimizing Product Profitability and Strategic Marketing
